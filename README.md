@@ -1,4 +1,4 @@
-# 561_FinalProject
+# 561: Flight Delay Prediction
 
 This project aims to predict whether a flight will be delayed using historical flight and weather data. We use machine learning techniques to classify flights as on-time or delayed (if arrival delay is ≥ 15 minutes), incorporating temporal, operational, and weather-related features.
 
